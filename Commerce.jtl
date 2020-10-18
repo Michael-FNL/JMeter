@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603012429749,3501,/-128,200,OK,Thread Group 1-1,text,true,,6880,350,1,1,https://demo.nopcommerce.com/,3491,0,2098
+1603012433260,324,/catalog/searchtermautocomplete-131,200,OK,Thread Group 1-1,text,true,,1621,420,1,1,https://demo.nopcommerce.com/catalog/searchtermautocomplete?term=macbook,324,0,0
+1603012433588,1252,/search-132,200,OK,Thread Group 1-1,text,true,,6517,406,1,1,https://demo.nopcommerce.com/search?q=macbook,1252,0,0
+1603012436580,1274,/apple-macbook-pro-13-inch,200,OK,Thread Group 1-1,text,true,,6842,406,1,1,https://demo.nopcommerce.com/,1274,0,0
+1603012437857,338,/addproducttocart/details/4/1-142,200,OK,Thread Group 1-1,text,true,,2008,685,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,338,0,0
+1603012438196,1200,/cart-145,200,OK,Thread Group 1-1,text,true,,4821,419,1,1,https://demo.nopcommerce.com/cart,1200,0,0
+1603012439397,295,/shoppingcart/checkoutattributechange?isEditable=True-147,200,OK,Thread Group 1-1,text,true,,1803,786,1,1,https://demo.nopcommerce.com/shoppingcart/checkoutattributechange?isEditable=True,295,0,0
